@@ -15,8 +15,8 @@ packaging==23.1
 PyAudio==0.2.13
 pydub==0.25.1
 PyYAML==6.0
-regex==2023.3.23
 requests==2.30.0
+regex==2023.5.5
 SpeechRecognition==3.10.0
 sympy==1.11.1
 tokenizers==0.13.3
@@ -24,4 +24,4 @@ torch==2.0.0
 tqdm==4.65.0
 transformers==4.28.1
 typing_extensions==4.5.0
-urllib3==2.0.1
+urllib3==2.0.2
