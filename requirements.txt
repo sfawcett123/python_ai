@@ -20,7 +20,7 @@ regex==2023.5.5
 SpeechRecognition==3.10.0
 sympy==1.12
 tokenizers==0.13.3
-torch==2.0.0
+torch==2.0.1
 tqdm==4.65.0
 transformers==4.28.1
 typing_extensions==4.5.0
